@@ -5,7 +5,8 @@ Project Overview
 The Sales Analytics Dashboard is a data analysis project designed to monitor, analyze, and visualize sales performance. This dashboard provides meaningful insights into sales trends, customer behavior, product performance, and revenue generation to support data-driven decision-making.
 
 Objectives
-1.Analyze overall sales performance\n
+1.Analyze overall sales performance.
+
 2.Identify top-performing products and categories
 3.Track revenue trends over time
 4.Monitor customer purchasing patterns
