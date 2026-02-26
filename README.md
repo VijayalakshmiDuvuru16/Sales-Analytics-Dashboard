@@ -42,7 +42,6 @@ Found sales distribution across different regions
 Project Outcome
 This project demonstrates practical skills in data analysis, data visualization, and business intelligence. It helps convert raw sales data into actionable insights using modern analytics tools.
 
-Author
+Screenshot / Demos
+Example :[Dashboard previwe](https://github.com/VijayalakshmiDuvuru16/Sales-Analytics-Dashboard/blob/main/sales_ss.png)
 
-Vijayalakshmi Duvuru
-Aspiring Data Analyst
